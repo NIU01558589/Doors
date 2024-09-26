@@ -1,0 +1,10 @@
+{
+  "@@locale": "es",
+  "greet": "Hello!",
+  "open": "Abrir",
+  "close": "Cerrar",
+  "lock": "Bloquear",
+  "unlock": "Desbloquear",
+  "recent_areas": "Areas recientes",
+  "recent_doors": "Puertas recientes"
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "ca",
+  "greet": "Hola benvingut!",
+  "open": "Obrir",
+  "close": "Tancar",
+  "lock": "Bloquejar",
+  "unlock": "Desbloquejar",
+  "recent_areas": "Arees recents",
+  "recent_doors": "Portes recents"
+}
